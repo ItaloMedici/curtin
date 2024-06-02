@@ -1,0 +1,11 @@
+
+### Create short url
+POST http://localhost:3000/create-short-url
+Content-Type: application/json
+
+{
+  "url": "https://www.google.com"
+}
+
+### Get short url
+GET http://localhost:3000/aHR0cHM
